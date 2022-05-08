@@ -5,4 +5,5 @@ A useless program that lets you change a GD level name with characters you can't
 - go to releses
 - clik GDLevelNameChanger.zip
 - ok now eestract
+- open GD before running
 - run RUNTHIS.exe (ovebously)
